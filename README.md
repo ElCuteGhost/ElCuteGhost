@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier (>‿◠)✌</h1>
 <h3 align="center">I am a 15 year old teenager living in Mexico who likes programming and the color pink. (─‿‿─)</h3>
 
-<p align="center">
-<img src="https://pbs.twimg.com/profile_banners/1423503846362464258/1644259291/600x200" alt="banner"/>
-<p/>
-
-
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=elcuteghost&label=Profile%20views&color=0e75b6&style=flat" alt="ElCuteGhost" /> </p>
 
 <h3 align="center">Connect with me ^o^ :</h3>
