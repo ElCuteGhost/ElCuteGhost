@@ -20,6 +20,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElCuteGhost&theme=omni" alt="cuteghost1517" /> </p>
 <h3 align="center">Most used languages ≧✯◡✯≦✌ :</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcuteghost&show_icons=true&locale=en&layout=compact" alt="cuteghost1517"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcuteghost&show_icons=true&locale=en&layout=compact" alt="ElCuteGhost"/>
 </p>
 
